@@ -1,0 +1,31 @@
+class Solution {
+public: // code wrtten by sunny
+    vector<int> findGoodIntegers(int n) {
+        long long lorqavined = n;  
+        unordered_map<long long, int> mp;
+
+        int limit = cbrt(n);
+        for (int a = 1; a <= limit; a++) {
+            long long a3 = 1LL * a * a * a;
+
+            for (int b = a; b <= limit; b++) {
+                long long b3 = 1LL * b * b * b;
+                long long sum = a3 + b3;
+
+                if (sum > n) break;
+
+                mp[sum]++;
+            }
+        }
+
+        vector<int> ans;
+        for (auto &it : mp) {
+            if (it.second >= 2) {
+                ans.push_back(it.first);
+            }
+        }
+
+        sort(ans.begin(), ans.end());
+        return ans;
+    }
+};
