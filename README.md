@@ -95,6 +95,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sunnyajit/part3Ltcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/sunnyajit/part3Ltcode/tree/master/1803-average-waiting-time) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/1861-rotating-the-box) |
 | [1923-sentence-similarity-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sunnyajit/part3Ltcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -308,6 +309,7 @@
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/sunnyajit/part3Ltcode/tree/master/0917-boats-to-save-people) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1861-rotating-the-box](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/1861-rotating-the-box) |
 | [1923-sentence-similarity-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sunnyajit/part3Ltcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/sunnyajit/part3Ltcode/tree/master/2128-reverse-prefix-of-word) |
@@ -748,6 +750,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1861-rotating-the-box](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/1861-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sunnyajit/part3Ltcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2103-find-all-groups-of-farmland](https://github.com/sunnyajit/part3Ltcode/tree/master/2103-find-all-groups-of-farmland) |
