@@ -121,6 +121,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sunnyajit/part3Ltcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sunnyajit/part3Ltcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sunnyajit/part3Ltcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2553-separate-the-digits-in-an-array](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2553-separate-the-digits-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sunnyajit/part3Ltcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sunnyajit/part3Ltcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -337,6 +338,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/sunnyajit/part3Ltcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sunnyajit/part3Ltcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/sunnyajit/part3Ltcode/tree/master/2411-spiral-matrix-iv) |
+| [2553-separate-the-digits-in-an-array](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2553-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/sunnyajit/part3Ltcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sunnyajit/part3Ltcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/sunnyajit/part3Ltcode/tree/master/2846-robot-collisions) |
