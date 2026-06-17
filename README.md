@@ -611,6 +611,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -685,6 +686,7 @@
 | [3567-convert-date-to-binary](https://github.com/sunnyajit/part3Ltcode/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
