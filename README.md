@@ -671,6 +671,7 @@
 | [0870-magic-squares-in-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/0870-magic-squares-in-grid) |
 | [1236-n-th-tribonacci-number](https://github.com/sunnyajit/part3Ltcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sunnyajit/part3Ltcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/sunnyajit/part3Ltcode/tree/master/1642-water-bottles) |
