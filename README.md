@@ -95,6 +95,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sunnyajit/part3Ltcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/sunnyajit/part3Ltcode/tree/master/1803-average-waiting-time) |
+| [1833-maximum-ice-cream-bars](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/1861-rotating-the-box) |
 | [1923-sentence-similarity-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/1923-sentence-similarity-iii) |
@@ -280,6 +281,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sunnyajit/part3Ltcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sunnyajit/part3Ltcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/1833-maximum-ice-cream-bars) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sunnyajit/part3Ltcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sunnyajit/part3Ltcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sunnyajit/part3Ltcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -456,6 +458,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/sunnyajit/part3Ltcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sunnyajit/part3Ltcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sunnyajit/part3Ltcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1833-maximum-ice-cream-bars](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sunnyajit/part3Ltcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sunnyajit/part3Ltcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -939,6 +942,7 @@
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/sunnyajit/part3Ltcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1217-relative-sort-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sunnyajit/part3Ltcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Topological Sort
 |  |
