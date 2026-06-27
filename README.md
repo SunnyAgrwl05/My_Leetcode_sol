@@ -149,6 +149,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sunnyajit/part3Ltcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -413,6 +414,7 @@
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -499,6 +501,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/sunnyajit/part3Ltcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -581,6 +584,7 @@
 | [0731-my-calendar-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0731-my-calendar-ii) |
 | [1511-count-number-of-teams](https://github.com/sunnyajit/part3Ltcode/tree/master/1511-count-number-of-teams) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -935,11 +939,13 @@
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/1285-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
