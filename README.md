@@ -130,6 +130,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/sunnyajit/part3Ltcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2846-robot-collisions](https://github.com/sunnyajit/part3Ltcode/tree/master/2846-robot-collisions) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -577,6 +578,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/sunnyajit/part3Ltcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sunnyajit/part3Ltcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sunnyajit/part3Ltcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sunnyajit/part3Ltcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Segment Tree
@@ -784,6 +786,7 @@
 | [2411-spiral-matrix-iv](https://github.com/sunnyajit/part3Ltcode/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sunnyajit/part3Ltcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Tree
 |  |
@@ -862,6 +865,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sunnyajit/part3Ltcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/sunnyajit/part3Ltcode/tree/master/2803-modify-graph-edge-weights) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sunnyajit/part3Ltcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
@@ -897,6 +901,7 @@
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/sunnyajit/part3Ltcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sunnyajit/part3Ltcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Game Theory
 |  |
@@ -991,4 +996,8 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sunnyajit/part3Ltcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
