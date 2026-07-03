@@ -150,6 +150,7 @@
 | [3541-report-spam-message](https://github.com/sunnyajit/part3Ltcode/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sunnyajit/part3Ltcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3620-network-recovery-pathways](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
@@ -581,6 +582,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sunnyajit/part3Ltcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3620-network-recovery-pathways](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3620-network-recovery-pathways) |
 ## Segment Tree
 |  |
 | ------- |
@@ -634,6 +636,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3620-network-recovery-pathways](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3620-network-recovery-pathways) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Depth-First Search
 |  |
@@ -868,6 +871,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sunnyajit/part3Ltcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3620-network-recovery-pathways](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
@@ -876,6 +880,7 @@
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sunnyajit/part3Ltcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/sunnyajit/part3Ltcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3620-network-recovery-pathways](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3620-network-recovery-pathways) |
 ## Union Find
 |  |
 | ------- |
@@ -975,6 +980,7 @@
 | [0310-minimum-height-trees](https://github.com/sunnyajit/part3Ltcode/tree/master/0310-minimum-height-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sunnyajit/part3Ltcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sunnyajit/part3Ltcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3620-network-recovery-pathways](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1000,4 +1006,8 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
