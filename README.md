@@ -146,6 +146,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/sunnyajit/part3Ltcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/sunnyajit/part3Ltcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3533-snake-in-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/3533-snake-in-matrix) |
 | [3541-report-spam-message](https://github.com/sunnyajit/part3Ltcode/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -414,6 +415,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyajit/part3Ltcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnyajit/part3Ltcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-report-spam-message](https://github.com/sunnyajit/part3Ltcode/tree/master/3541-report-spam-message) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
@@ -582,6 +584,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sunnyajit/part3Ltcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3620-network-recovery-pathways) |
 ## Segment Tree
 |  |
@@ -1006,8 +1009,10 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
