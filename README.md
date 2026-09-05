@@ -155,6 +155,7 @@
 | [3620-network-recovery-pathways](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
@@ -510,6 +511,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
