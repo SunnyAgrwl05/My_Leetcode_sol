@@ -143,6 +143,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyajit/part3Ltcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/sunnyajit/part3Ltcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3364-minimum-positive-sum-subarray) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sunnyajit/part3Ltcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnyajit/part3Ltcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -439,6 +440,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sunnyajit/part3Ltcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunnyajit/part3Ltcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3364-minimum-positive-sum-subarray) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
@@ -510,6 +512,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sunnyajit/part3Ltcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/sunnyajit/part3Ltcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/SunnyAgrwl05/My_Leetcode_sol/tree/master/3904-smallest-stable-index-ii) |
